@@ -10,6 +10,7 @@ public class PairSumExistsInArray {
         Set<Integer> s = new HashSet<>();
         for(int n : nums)
         {
+            //find if the complement exists
             if(s.contains(k-n)) {
                 System.out.println("pair exists");
                 return;
