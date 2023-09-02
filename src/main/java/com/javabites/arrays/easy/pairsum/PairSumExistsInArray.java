@@ -1,4 +1,4 @@
-package com.javabites.arrays.easy;
+package com.javabites.arrays.easy.pairsum;
 
 import java.util.HashSet;
 import java.util.Set;
