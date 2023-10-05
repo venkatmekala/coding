@@ -19,6 +19,8 @@ public class LongestConSeq1 {
             }
             else {
                 cnt = 1;
+
+
                 currentSmallest = a[i];
             }
 
